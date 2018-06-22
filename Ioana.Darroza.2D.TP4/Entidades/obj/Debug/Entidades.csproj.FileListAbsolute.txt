@@ -1,0 +1,5 @@
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\Entidades\obj\Debug\Entidades.pdb
