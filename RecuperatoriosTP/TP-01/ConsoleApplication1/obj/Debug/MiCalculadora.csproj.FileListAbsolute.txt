@@ -1,0 +1,10 @@
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\bin\Debug\Entidades.dll
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\bin\Debug\Entidades.pdb
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ioana\Desktop\TP 4\Darroza.Ioana.TP1\ConsoleApplication1\obj\Debug\MiCalculadora.LaCalculadora.resources

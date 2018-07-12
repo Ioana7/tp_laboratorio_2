@@ -1,0 +1,14 @@
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Ioana\Desktop\TP 4\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Ioana\Desktop\RECUPERACIÓN  TPS\Ioana.Darroza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Ioana\Desktop\RECUPERACIÓN  TPS\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Ioana\Desktop\RECUPERACIÓN  TPS\Ioana.Darroza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
